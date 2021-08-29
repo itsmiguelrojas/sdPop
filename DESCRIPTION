@@ -1,0 +1,14 @@
+Package: sdPop
+Title: Standard deviation from population
+Version: 1.0
+Authors@R: 
+    person(given = "Miguel",
+           family = "Rojas",
+           email = "itsmiguelrojas@gmail.com",
+           role = c("aut", "cre"))
+Description: Calculate standard deviation from population.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
