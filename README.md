@@ -5,6 +5,24 @@
 This package has a only one function, `sd.population()`, which allows you to calculate the standard deviation from a population. This means it is divided by *n*,
 not  *n-1*.
 
+## Install
+
+You can install this package using `remotes`:
+
+```
+install.packages('remotes')
+library(remotes)
+remotes::install_github('itsmiguelrojas/sdPop')
+```
+
+Or you can do the same with `devtools`:
+
+```
+install.packages('devtools')
+library(devtools)
+devtools::install_github('itsmiguelrojas/sdPop')
+```
+
 ## Parameters
 
 `sd.population()` has only two parameters:
