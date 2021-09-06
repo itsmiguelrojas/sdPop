@@ -1,6 +1,6 @@
-![GitHub R package version](https://img.shields.io/github/r-package/v/itsmiguelrojas/sdPop?style=plastic) ![GitHub](https://img.shields.io/github/license/itsmiguelrojas/sdPop?color=orange&style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/itsmiguelrojas/sdPop?color=green&label=size) 
-
 # sdPop: Population standard deviation
+
+![GitHub R package version](https://img.shields.io/github/r-package/v/itsmiguelrojas/sdPop?style=plastic) ![GitHub](https://img.shields.io/github/license/itsmiguelrojas/sdPop?color=orange&style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/itsmiguelrojas/sdPop?color=green&label=size)
 
 ## About
 
