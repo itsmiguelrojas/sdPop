@@ -55,7 +55,7 @@ sd.population(x)
 
 It gives the following error:
 
-```r
+```
 Error in sd.population(x) : NA's detected
 ```
 
